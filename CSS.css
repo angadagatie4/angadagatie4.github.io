@@ -1,0 +1,14 @@
+/* CSS.css */
+body{
+    background-color: white;
+    padding: 1rem 0;
+    margin-bottom: 1rem;
+}
+h1, h2, h3, h4, h5, h6 {
+    color: #;
+    margin-bottom: 1rem;
+}
+a {
+    color: purple;
+    text-decoration: none;
+}
